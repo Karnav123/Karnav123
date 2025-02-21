@@ -1,4 +1,4 @@
-# Hi there, I'm Karnav123 👋
+# Hi there, I'm Kumar Arnav 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in Data Structures & Algorithms, system design, data science & AI. 
 
